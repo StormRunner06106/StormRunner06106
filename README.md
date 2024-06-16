@@ -69,7 +69,19 @@
         <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td>        
+    </td>  
+        <td align="center" width="96">
+      <a href="https://angular.org/">
+        <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+        <td align="center" width="96">
+      <a href="https://pub.dev/">
+        <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
   </tr>
   <tr>        
     <td align="center" width="96">
@@ -89,6 +101,12 @@
         <img src="./img/gen-ai.svg" width="48" height="48" alt="GenAI" />
       </a>
       <br>GenAI
+    </td>
+        <td align="center" width="96">
+      <a href="https://spring.io/">
+        <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
     </td>
   </tr>
 </table>
