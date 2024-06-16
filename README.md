@@ -69,33 +69,9 @@
         <img src="./img/graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td>    
-    <td align="center" width="96">
-      <a href="https://moleculer.services/index.html">
-        <img src="./img/moleculer.svg" width="48" height="48" alt="MoleculerJS" />
-      </a>
-      <br>Moleculer
-    </td>    
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/inversify/InversifyJS">
-        <img src="./img/inversify.png" width="48" height="48" alt="InversifyJS" />
-      </a>
-      <br>Inversify
     </td>        
-    <td align="center" width="96">
-      <a href="https://ajv.js.org/">
-        <img src="./img/ajv.svg" width="48" height="48" alt="AJV" />
-      </a>
-      <br>AJV
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/xstate">
-        <img src="./img/state-machine.svg" width="48" height="48" alt="State Machine" />
-      </a>
-      <br>StateMachine
-    </td>
+  </tr>
+  <tr>        
     <td align="center" width="96">
       <a href="https://www.npmjs.com/package/json-rules-engine">
         <img src="./img/json-engine.svg" width="48" height="48" alt="JsonEngine" />
@@ -103,16 +79,10 @@
       <br>JsonEngine
     </td>
     <td align="center" width="96">
-      <a href="https://www.npmjs.com/package/rrule">
-        <img src="./img/rrule.svg" width="48" height="48" alt="RRule" />
+      <a href="https://console.firebase/">
+        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
-      <br>RRule
-    </td>
-    <td align="center" width="96">
-      <a href="https://weaviate.io/">
-        <img src="./img/weaviate.svg" width="48" height="48" alt="Weaviate" />
-      </a>
-      <br>Weaviate
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="https://ai.google/discover/generativeai/">
