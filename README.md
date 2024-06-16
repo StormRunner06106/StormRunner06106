@@ -108,6 +108,18 @@
       </a>
       <br>Spring
     </td>
+            <td align="center" width="96">
+      <a href="https://laravel.com/">
+        <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+            <td align="center" width="96">
+      <a href="https://reactnative.dev/">
+        <img src="./img/react.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
   </tr>
 </table>
 </div>
