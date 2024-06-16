@@ -102,6 +102,12 @@
       </a>
       <br>GenAI
     </td>
+        <td align="center" width="96">
+      <a href="https://spring.io/">
+        <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
   </tr>
 </table>
 </div>
